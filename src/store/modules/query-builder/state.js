@@ -12,8 +12,5 @@ export const state = {
   },
   selectedTables: [],
   newQueryData: {...defaultQueryData},
-  queries: [{
-    value: '"account_id"=\'dsadasd\'',
-    concat: null,
-  }],
+  queries: [],
 }
