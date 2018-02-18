@@ -1,0 +1,16 @@
+.new-query-content {
+  .hide {
+    display: none !important;
+  }
+  padding: 10px;
+  min-width: 350px;
+  .el-scrollbar__wrap {
+    overflow: auto;
+  }
+  .new-query-header {
+    padding-bottom: 10px;
+  }
+  .new-query-footer {
+    padding-top: 10px;
+  }
+}

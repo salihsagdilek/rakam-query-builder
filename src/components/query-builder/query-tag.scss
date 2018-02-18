@@ -1,0 +1,14 @@
+.query-concat {
+  width: 40px;
+  padding: 0 10px;
+  input {
+    padding: 0 !important;
+    border-radius: 50%;
+    font-size: 11px;
+    text-align: center;
+    font-weight: 700;
+  }
+  .el-input__suffix {
+    display: none;
+  }
+}
