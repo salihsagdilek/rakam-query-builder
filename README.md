@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+
+## [Demo](https://rakam-query-builder.herokuapp.com)
+
 ## Build Setup
 
 ``` bash
